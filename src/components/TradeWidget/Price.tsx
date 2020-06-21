@@ -62,8 +62,8 @@ export const PriceInputBox = styled.div`
   display: flex;
   flex-flow: column nowrap;
   margin: 0;
+  width: 50%;
   width: calc(50% - 0.8rem);
-  width: 70%;
   position: relative;
   outline: 0;
 
